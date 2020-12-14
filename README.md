@@ -1,4 +1,8 @@
-### Hi there 👋
+:point_right: ### Hi there 👋 :open_hands: :point_left:
+
+:point_right: #### I'm currently working on ***MERN STACK***
+
+:point_right: ## FULL STACK DEVELOPER under construction....:innocent::heart::broken_heart::heartbeat::fire::fire::fire:
 
 <!--
 **john4suresh/john4suresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
