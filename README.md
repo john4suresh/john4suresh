@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Suresh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/suresh-paramasivam-a59a06129/)
-[<img align="left" alt="Suresh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/john4js/)
+[<img align="left" alt="Suresh | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" />](https://www.linkedin.com/in/suresh-paramasivam-a59a06129/)
+[<img align="left" alt="Suresh | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png" />](https://www.instagram.com/john4js/)
 
 <br />
 <br />
